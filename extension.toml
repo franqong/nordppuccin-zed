@@ -1,0 +1,7 @@
+id = "nordppuccin"
+name = "Nordppuccin"
+description = "A hybrid theme combining Nord's cold icy aesthetic with Catppuccin's pastel syntax."
+version = "0.1.0"
+schema_version = 1
+authors = ["franqong"]
+repository = "https://github.com/franqong/nordppuccin-zed"
