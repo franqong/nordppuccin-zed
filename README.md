@@ -31,3 +31,4 @@ This theme is built upon the incredible work of the open-source community:
 * **[Nord](https://github.com/nordtheme/nord)** by Arctic Ice Studio – for the iconic icy palette, UI accents, Git status colors, and terminal aesthetics.
 * **[Catppuccin](https://github.com/catppuccin/zed)** – for the vibrant yet soothing pastel syntax color palettes.
 * **[Yukina3230](https://github.com/yukina3230/yukinord_zed)** – for the original dark UI structure and layout foundation used in the dark variant.
+* **[Zed Theme Builder](https://zed.dev/theme-builder)** – for generating the extension scaffold and base theme configuration.

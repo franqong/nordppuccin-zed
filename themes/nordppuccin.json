@@ -1,4 +1,5 @@
 {
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Nordppuccin",
   "author": "franqong",
   "themes": [
@@ -73,32 +74,32 @@
         "editor.document_highlight.write_background": "#425874FF",
         "terminal.background": "#1D2129FF",
         "terminal.foreground": "#CDD6F4FF",
-        "terminal.bright_foreground": "#CDD6F4FF",
-        "terminal.dim_foreground": "#CDD6F4FF",
+        "terminal.bright_foreground": "#F5E0DCFF",
+        "terminal.dim_foreground": "#A6ADC8FF",
         "terminal.ansi.black": "#4C566AFF",
-        "terminal.ansi.bright_black": "#4C566AFF",
-        "terminal.ansi.dim_black": "#4C566AFF",
+        "terminal.ansi.bright_black": "#6C7086FF",
+        "terminal.ansi.dim_black": "#3B4252FF",
         "terminal.ansi.red": "#BF616AFF",
-        "terminal.ansi.bright_red": "#BF616AFF",
+        "terminal.ansi.bright_red": "#F38BA8FF",
         "terminal.ansi.dim_red": "#BF616AFF",
         "terminal.ansi.green": "#A3BE8CFF",
-        "terminal.ansi.bright_green": "#A3BE8CFF",
+        "terminal.ansi.bright_green": "#A6E3A1FF",
         "terminal.ansi.dim_green": "#A3BE8CFF",
         "terminal.ansi.yellow": "#EBCB8BFF",
-        "terminal.ansi.bright_yellow": "#EBCB8BFF",
+        "terminal.ansi.bright_yellow": "#F9E2AFFF",
         "terminal.ansi.dim_yellow": "#EBCB8BFF",
         "terminal.ansi.blue": "#81A1C1FF",
-        "terminal.ansi.bright_blue": "#81A1C1FF",
+        "terminal.ansi.bright_blue": "#89B4FAFF",
         "terminal.ansi.dim_blue": "#81A1C1FF",
         "terminal.ansi.magenta": "#B48EADFF",
-        "terminal.ansi.bright_magenta": "#B48EADFF",
+        "terminal.ansi.bright_magenta": "#F5C2E7FF",
         "terminal.ansi.dim_magenta": "#B48EADFF",
         "terminal.ansi.cyan": "#88C0D0FF",
-        "terminal.ansi.bright_cyan": "#88C0D0FF",
+        "terminal.ansi.bright_cyan": "#94E2D5FF",
         "terminal.ansi.dim_cyan": "#88C0D0FF",
         "terminal.ansi.white": "#E5E9F0FF",
-        "terminal.ansi.bright_white": "#E5E9F0FF",
-        "terminal.ansi.dim_white": "#E5E9F0FF",
+        "terminal.ansi.bright_white": "#FFFFFFFF",
+        "terminal.ansi.dim_white": "#CDD6F4FF",
         "link_text.hover": "#CBA6F7FF",
         "version_control.added": "#A3BE8CFF",
         "version_control.modified": "#EBCB8BFF",
@@ -154,7 +155,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#CDD6F4FF",
+            "color": "#B4BEFEFF",
             "font_style": null,
             "font_weight": null
           },
@@ -352,13 +353,16 @@
             "color": "#F9E2AFFF"
           },
           "selector": {
-            "color": "#CDD6F4FF"
+            "color": "#88C0D0FF"
           },
           "punctuation.markup": {
             "color": "#CDD6F4FF"
           },
           "selector.pseudo": {
-            "color": "#CDD6F4FF"
+            "color": "#89DCEBFF"
+          },
+          "variable.parameter": {
+            "color": "#F2CDCDFF"
           }
         },
         "panel.overlay_background": "#1D2129FF",
@@ -450,31 +454,31 @@
         "terminal.background": "#ECEFF4FF",
         "terminal.foreground": "#4C4F69FF",
         "terminal.bright_foreground": "#4C4F69FF",
-        "terminal.dim_foreground": "#5C5F77FF",
-        "terminal.ansi.black": "#3B4252FF",
-        "terminal.ansi.bright_black": "#4C566AFF",
-        "terminal.ansi.dim_black": "#2E3440FF",
-        "terminal.ansi.red": "#BF616AFF",
-        "terminal.ansi.bright_red": "#BF616AFF",
+        "terminal.dim_foreground": "#6C6F85FF",
+        "terminal.ansi.black": "#5C5F77FF",
+        "terminal.ansi.bright_black": "#6C6F85FF",
+        "terminal.ansi.dim_black": "#4C4F69FF",
+        "terminal.ansi.red": "#D20F39FF",
+        "terminal.ansi.bright_red": "#E64553FF",
         "terminal.ansi.dim_red": "#BF616AFF",
-        "terminal.ansi.green": "#A3BE8CFF",
-        "terminal.ansi.bright_green": "#A3BE8CFF",
+        "terminal.ansi.green": "#40A02BFF",
+        "terminal.ansi.bright_green": "#40A02BFF",
         "terminal.ansi.dim_green": "#A3BE8CFF",
-        "terminal.ansi.yellow": "#EBCB8BFF",
-        "terminal.ansi.bright_yellow": "#EBCB8BFF",
+        "terminal.ansi.yellow": "#DF8E1DFF",
+        "terminal.ansi.bright_yellow": "#DF8E1DFF",
         "terminal.ansi.dim_yellow": "#EBCB8BFF",
-        "terminal.ansi.blue": "#81A1C1FF",
-        "terminal.ansi.bright_blue": "#81A1C1FF",
+        "terminal.ansi.blue": "#1E66F5FF",
+        "terminal.ansi.bright_blue": "#209FB5FF",
         "terminal.ansi.dim_blue": "#81A1C1FF",
-        "terminal.ansi.magenta": "#B48EADFF",
-        "terminal.ansi.bright_magenta": "#B48EADFF",
+        "terminal.ansi.magenta": "#8839EFFF",
+        "terminal.ansi.bright_magenta": "#EA76CBFF",
         "terminal.ansi.dim_magenta": "#B48EADFF",
-        "terminal.ansi.cyan": "#88C0D0FF",
-        "terminal.ansi.bright_cyan": "#88C0D0FF",
+        "terminal.ansi.cyan": "#179299FF",
+        "terminal.ansi.bright_cyan": "#04A5E5FF",
         "terminal.ansi.dim_cyan": "#88C0D0FF",
-        "terminal.ansi.white": "#E5E9F0FF",
-        "terminal.ansi.bright_white": "#ECEFF4FF",
-        "terminal.ansi.dim_white": "#D8DEE9FF",
+        "terminal.ansi.white": "#4C4F69FF",
+        "terminal.ansi.bright_white": "#3B4252FF",
+        "terminal.ansi.dim_white": "#6C6F85FF",
         "link_text.hover": "#8839EFFF",
         "version_control.added": "#A3BE8CFF",
         "version_control.modified": "#EBCB8BFF",
@@ -530,7 +534,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#4C4F69FF",
+            "color": "#179299FF",
             "font_style": null,
             "font_weight": null
           },
@@ -728,13 +732,16 @@
             "color": "#DF8E1DFF"
           },
           "selector": {
-            "color": "#4C4F69FF"
+            "color": "#1E66F5FF"
           },
           "punctuation.markup": {
             "color": "#4C4F69FF"
           },
           "selector.pseudo": {
-            "color": "#4C4F69FF"
+            "color": "#E64553FF"
+          },
+          "variable.parameter": {
+            "color": "#DD7878FF"
           }
         },
         "panel.overlay_background": "#ECEFF4FF",
@@ -755,5 +762,6 @@
       }
     }
   ],
-  "isUserGenerated": true
+  "isUserGenerated": true,
+  "description": "A hybrid theme combining Nord's cold icy aesthetic with Catppuccin's pastel syntax."
 }
